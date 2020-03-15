@@ -11,7 +11,7 @@ main {
 main > header {
   text-align: center;
   background-color: grey;
-  height: 20%;
+  height: 20vh;
   padding: 20px;
   display: flex;
   flex-direction: column;
