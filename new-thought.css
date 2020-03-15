@@ -1,0 +1,30 @@
+main {
+  width: 100%;
+}
+
+section {
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form label {
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+}
+
+textarea {
+  height: 40vh;
+  margin-bottom: 40px;
+  width: 100%;
+  max-width: 500px;
+}
+
+form > div {
+  align-self: center;
+}
